@@ -12,6 +12,9 @@
 - [プライバシーポリシー](./driptimer/)
 - [サポート](./driptimer/support)
 
+## 医療費控除管理アプリ
+- [プライバシーポリシー](./medicalexpense/)
+
 ---
 
 開発・運営：BitterSweets-art
