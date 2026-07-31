@@ -109,8 +109,6 @@ iCloud へのデータ転送は Apple の CloudKit の暗号化に準拠して�
 
 これらのサービスが収集するデータには、お客様のレシピ内容・個人情報は含まれません。すべて匿名化された識別子に基づいて処理されます。
 
-**PostHog のオプトアウト**：本アプリの設定画面から、PostHog によるアナリティクス収集をいつでも無効化できます。
-
 各サービスのプライバシーポリシー：
 - Apple iCloud: [https://www.apple.com/jp/privacy/](https://www.apple.com/jp/privacy/)
 - PostHog: [https://posthog.com/privacy](https://posthog.com/privacy)
