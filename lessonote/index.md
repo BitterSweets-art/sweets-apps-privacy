@@ -87,8 +87,6 @@
 | **PostHog** | 機能利用状況のアナリティクス | 匿名のセッション情報・機能使用状況（個人を特定しない） | PostHog Inc. |
 | Apple iCloud | 将来のデバイス間同期（v2.0以降予定） | レッスンデータ（ご自身のiCloudアカウントにのみ保存） | Apple Inc. |
 
-**PostHog のオプトアウト**：本アプリの設定画面から、PostHog によるアナリティクス収集をいつでも無効化できます。
-
 各サービスのプライバシーポリシー：
 - RevenueCat: [https://www.revenuecat.com/privacy](https://www.revenuecat.com/privacy)
 - PostHog: [https://posthog.com/privacy](https://posthog.com/privacy)
