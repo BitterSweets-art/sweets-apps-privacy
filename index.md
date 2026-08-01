@@ -19,6 +19,22 @@
 - [プライバシーポリシー](./memoryphoto/)
 - [サポート](./memoryphoto/support)
 
+## ビブリオフィリア
+- [プライバシーポリシー](./bibliophilia/)
+- [サポート](./bibliophilia/support)
+
+## システム手帳
+- [プライバシーポリシー](./techorefill/)
+- [サポート](./techorefill/support)
+
+## Trailo
+- [プライバシーポリシー](./tripdiary/)
+- [サポート](./tripdiary/support)
+
+## シフト管理エージェント
+- [プライバシーポリシー](./shiftmanager/)
+- [サポート](./shiftmanager/support)
+
 ---
 
 開発・運営：BitterSweets-art
